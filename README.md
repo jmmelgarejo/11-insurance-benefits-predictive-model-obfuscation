@@ -18,7 +18,7 @@ Link: ...
 - Model Selection and Training for Predictive Modeling: Select, test, and fine-tune an ML model to predict customer churn, using data splits for training, validation, and testing, and evaluate boosting methodologies for accuracy.
 - Conclusions and Recommendations: Compile final recommendations and action steps for reducing churn, including strategies for model deployment and monitoring.
 
-Conclusions
+### Conclusions
 
 - Based on the analysis and predictive model, key indicators for customer churn are fiber optic service, contract type and length (tenure), and internet service in general.
 - Model Accuracy: Continuously evaluate model accuracy with new data to identify at-risk customers early and offer incentives to prevent churn.
