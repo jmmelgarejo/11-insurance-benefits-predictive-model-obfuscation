@@ -4,7 +4,7 @@ In this project a predictive model was created to identify which users are likel
 
 The data masking (or data obfuscation) should ensure that personal information remains secure even if the data is compromised, while still maintaining the quality of the machine learning models. The goal is to demonstrate that the algorithm works correctly, not necessarily to optimize the model.
 
-Link: ...
+Link: https://github.com/jmmelgarejo/11-insurance-benefits-predictive-model-obfuscation/blob/main/11-insurance-benefits-predictive-model-obfuscation.ipynb
 
 ### Table of Contents
 
